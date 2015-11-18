@@ -10,7 +10,7 @@
 		"Themes"
 	],
 	"icon": "icon.svg",
-	"publisher": "Rob Prouse",
+	"publisher": "rprouse",
 	"contributes": {
 		"themes": [
 			{
