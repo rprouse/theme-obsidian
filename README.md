@@ -1,9 +1,12 @@
 # Son of Obsidian
-Son of Obsidian theme for Visual Studio Code 0.9.1+
 
-To enable,
+Son of Obsidian Theme for VS Code based on the TextMate themes.
 
-- Copy this theme into `.vscode\extensions\theme-obsidian`
-- Open Visual Studio Code
-- `Ctrl+Shift+P` then type theme, hit enter
-- Scroll down to `Son of Obsidian` and hit enter
+## Install
+In Visual Studio Code, run `ext install theme-obsidian` - or, simply hit `CMD/CTRL + Shift + P`, search for "Install Extension", and then search for "Obsidian".
+
+## Contributions
+Contributions are welcome, especially support for more languages and keywords. https://github.com/rprouse/theme-obsidian
+
+## License
+MIT, please see LICENSE for details. Copyright (c) 2015 Rob Prouse.
