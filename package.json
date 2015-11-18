@@ -1,9 +1,15 @@
 {
 	"name": "theme-obsidian",
-	"version": "0.0.1",
+	"displayName": "Son of Obsidian Theme",
+	"description": "Son of Obsidian Theme for VS Code based on the TextMate themes.",
+	"version": "0.1.0",
 	"engines": {
-		"vscode": ">=0.9.0-pre.1"
+		"vscode": "0.10.x"
 	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
 	"publisher": "Rob Prouse",
 	"contributes": {
 		"themes": [

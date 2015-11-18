@@ -1,1 +1,3 @@
 *.* text eol=lf
+icon.svg eol=crlf
+.gitattributes eol=crlf
