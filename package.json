@@ -1,8 +1,8 @@
 {
 	"name": "theme-obsidian",
 	"displayName": "Son of Obsidian Theme",
-	"description": "Son of Obsidian Theme for VS Code based on the TextMate themes.",
-	"version": "0.1.0",
+	"description": "Son of Obsidian Theme for VS Code.",
+	"version": "0.2.0",
 	"engines": {
 		"vscode": "0.10.x"
 	},
