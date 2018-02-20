@@ -149,11 +149,17 @@
 	"colors": {
 		"editor.background": "#22282A",
 		"editor.foreground": "#F1F2F3",
-		"editorCursor.foreground": "#AEAFAD",
-		"editorWhitespace.foreground": "#4B4E55",
 		"editor.lineHighlightBackground": "#373a3f",
 		"editor.selectionBackground": "#3d4c4e",
-		"editor.selectionHighlightBackground": "#303b3d"
+    "editor.selectionHighlightBackground": "#303b3d",
+    "editorCursor.foreground": "#AEAFAD",
+    "editorGutter.background": "#22282A",
+    "editorIndentGuide.background": "#343b3f",
+    "editorRuler.foreground": "#343b3f",
+    "editorError.foreground": "#942323",
+    "editorWarning.foreground": "#93C763",
+    "editorInfo.foreground": "#4B4E55",
+		"editorWhitespace.foreground": "#4B4E55"
 	},
 	"name": "Son of Obsidian"
 }
