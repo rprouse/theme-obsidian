@@ -1,10 +1,10 @@
 {
 	"name": "theme-obsidian",
 	"displayName": "Son of Obsidian Theme",
-	"description": "Son of Obsidian Theme for VS Code.",
-	"version": "0.2.0",
+	"description": "Son of Obsidian Theme for VS Code",
+	"version": "0.3.0",
 	"engines": {
-		"vscode": "0.10.x"
+    "vscode": "^1.20.0"
 	},
 	"categories": [
 		"Themes"
@@ -16,7 +16,7 @@
 			{
 				"label": "Son of Obsidian",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Obsidian.tmTheme"
+        "path": "./themes/son-of-obsidian-color-theme.json"
 			}
 		]
 	}
