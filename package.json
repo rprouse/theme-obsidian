@@ -9,6 +9,11 @@
 	"categories": [
 		"Themes"
 	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rprouse/theme-obsidian"
+  },
+  "keywords": ["obsidian", "son of obsidian", "theme"],
 	"icon": "icon.svg",
 	"publisher": "rprouse",
 	"contributes": {
