@@ -14,7 +14,7 @@
     "url": "https://github.com/rprouse/theme-obsidian"
   },
   "keywords": ["obsidian", "son of obsidian", "theme"],
-	"icon": "icon.svg",
+	"icon": "icon.png",
 	"publisher": "rprouse",
 	"contributes": {
 		"themes": [
