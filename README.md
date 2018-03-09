@@ -9,4 +9,4 @@ In Visual Studio Code, run `ext install theme-obsidian` - or, simply hit `CMD/CT
 Contributions are welcome, especially support for more languages and keywords. https://github.com/rprouse/theme-obsidian
 
 ## License
-MIT, please see LICENSE for details. Copyright (c) 2015 Rob Prouse.
+MIT, please see LICENSE for details. Copyright (c) 2018 Rob Prouse.
